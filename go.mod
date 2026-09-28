@@ -1,0 +1,3 @@
+module github.com/avamartin8518/goroutine-ping
+
+go 1.21
